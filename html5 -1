@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Simple Elegance 03</title>
+        <meta content="text/html">
+        <link href="CSS-1.css" type="text/css" media="screen" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="header">Simple Elegance 03</div>
+        <ul id="navbar">
+            <li><a href="http://all-free-download.com/free-website-templates/" target="_blank">Home</a></li>
+            <li><a href="http://all-free-download.com/free-website-templates/" target="_blank">Hyperlink</a></li>
+            <li><a href="http://all-free-download.com/free-website-templates/" target="_blank">Hyperlink</a></li>
+            <li><a href="http://all-free-download.com/free-website-templates/" target="_blank">Hyperlink</a></li>
+        </ul>
+        <div id="maincontainer">
+            <div id="content">
+                <div id="contentcolumn">
+                    <h1>Hello World</h1>
+                    <img alt="" class="limage" height="112" width="112" src="file:///F:/Web%20Design/Beginner%20level/1/simple_elegance_03_template_1158/images/image.gif" />Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World   
+                    Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello
+                    Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello World Hello
+                    Hello World Hello World Hello World Hello World.<br>
+                    <img alt="" src="file:///F:/Web%20Design/Beginner%20level/1/simple_elegance_03_template_1158/images/more.gif" height="9" width="9" />
+                    <a href="#">Read more...</a>
+                    
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
