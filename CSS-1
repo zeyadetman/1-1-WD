@@ -28,3 +28,7 @@ h1,h2,h3{font-size: medium; color: #626258; }
 .limage{float: left;margin: 6px 10px 0 0;}
 a,a:active,a:visited {outline:none;color: #626258;text-decoration: underline;}
 a:hover {color: #939384;text-decoration: none;}
+.rimage{float: right; margin: 6px 0 0 10px;}
+div.hr{margin: 20px 0 20px 0; background: #fff url(file:///F:/Web%20Design/Beginner%20level/1/simple_elegance_03_template_1158/images/hr.gif); height: 10px;}
+div.hr hr{display: none;}
+.gallery {margin-right: 4px; border: none;}
