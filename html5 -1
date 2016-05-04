@@ -40,6 +40,39 @@
                         <img class="gallery" src="file:///F:/Web%20Design/Beginner%20level/1/simple_elegance_03_template_1158/images/image.gif" height="112" width="112" />
                     </p>
                     <div class="hr"><hr /></div>
+                    <h2>List</h2>
+                    <ul id="lis">
+                        <li>Item one</li>
+                        <li>Item one</li>
+                        <li>Item one</li>
+                        <li>Item one</li>
+                        <li>Item one</li>
+                    </ul>
+                    <h4>Color Scheme</h4>
+                    <p><img src="file:///F:/Web%20Design/Beginner%20level/1/simple_elegance_03_template_1158/images/colors.gif" height="100" width="300" /> </p>
+                    <div class="hr"><hr /></div>
+                    <h4>Form</h4>
+                    <div>
+                    <form id="formi" class="form" action="#">
+                        <p>
+                            <label for="user">Name:</label>
+                            <input class="input" value="" id="user" type="text" />
+                        </p>
+                        <p>
+                            <label for="email">E-Mail:</label>
+                            <input class="input" value="" id="email" type="email" />
+                        </p>
+                        <p>
+                            <label for="message:">Message:</label>
+                            <textarea id="message" rows="5" cols="25"></textarea>
+                        </p>
+                        <div id="submit">
+                            <input type="submit" value="Submit Message" class="subbtn" />
+                            <input type="reset" value="Clear Message" class="subbtn" />      
+                        </div>
+                    </form>
+                    </div>
+                    <div class="hr"><hr /></div>
                 </div>
             </div>
         </div>
