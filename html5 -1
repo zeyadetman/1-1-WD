@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <!--Zeyad Etman in memory with mostafa kamel -->
 <html>
-    <head>
+    <head lang="en">
         <title>Simple Elegance 03</title>
-        <meta content="text/html">
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
         <link href="CSS-1.css" type="text/css" media="screen" rel="stylesheet" />
     </head>
     <body>
+        <div id="top"></div>
         <div id="header">Simple Elegance 03</div>
         <ul id="navbar">
             <li><a href="http://all-free-download.com/free-website-templates/" target="_blank">Home</a></li>
@@ -67,14 +68,40 @@
                             <textarea id="message" rows="5" cols="25"></textarea>
                         </p>
                         <div id="submit">
-                            <input type="submit" value="Submit Message" class="subbtn" />
-                            <input type="reset" value="Clear Message" class="subbtn" />      
+                            <button type="submit" value="Submit Message" class="subbtn" />Submit Message</button>
+                            <button type="reset" value="Clear Message" class="subbtn" />Clear Message</button>
                         </div>
                     </form>
                     </div>
                     <div class="hr"><hr /></div>
-                </div>
+                    <h4>Weblinks</h4>
+                    <div id="table1">
+                        <div id="left">
+                            <ul>
+                                <li><a href="#">1</a></li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#">3</a></li>
+                                <li><a href="#">4</a></li>
+                                <li><a href="#">5</a></li>
+                            </ul>
+                        </div>
+                        
+                        <div id="right">
+                            <ul>
+                                <li><a href="#">6</a></li>
+                                <li><a href="#">7</a></li>
+                                <li><a href="#">8</a></li>
+                                <li><a href="#">9</a></li>
+                                <li><a href="#">10</a></li>
+                            </ul>
+                        </div> 
+                    </div>
+                    <div id="footer">
+                        <a href="#">Thanks</a>
+                        <p align="right"><a href="#top">top</a></p>
+                    </div>
             </div>
         </div>
+    </div>
     </body>
 </html>
