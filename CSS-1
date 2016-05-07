@@ -88,5 +88,27 @@ h4{
 
 .subbtn{
     border: 1px solid #939384; background: #f5f5dc url(file:///F:/Web%20Design/Beginner%20level/1/simple_elegance_03_template_1158/images/button.gif); letter-spacing:  1px; width: 140px;
+}
+#table1{
+    margin: 0;
+}
+#table1 li{
+    list-style-type: none;
+}
+#left{
+    float: left; width: 48%; font-size: 1em;
+}
 
+#left li{
+    background: url(file:///F:/Web%20Design/Beginner%20level/1/simple_elegance_03_template_1158/images/link.gif) no-repeat 0 5px;
+    padding-left: 15px;
+}
+
+#right{
+    float: right; width: 48%; font-size: 1em;
+}
+
+#right li{
+    background: url(file:///F:/Web%20Design/Beginner%20level/1/simple_elegance_03_template_1158/images/link.gif) no-repeat 0 5px;
+    padding-left: 15px;
 }
